@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://majed:majed@cluster0-rfloa.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "4c2c1a810dab665ac827",
+  "githubSecret": "6cc55110744a2d9649caf06bc2e2b8a0f2eab074"
+}
